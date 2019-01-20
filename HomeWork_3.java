@@ -30,7 +30,7 @@ public class HomeWork_3 {
                     } else {
                         System.out.println("Загаданное число больше.");
                     }
-                    if (counter==3){
+                    if (counter==3 && inputNuber != number ){
                     System.out.println("Попытки кончились, ты проиграл");
                     }
             }
